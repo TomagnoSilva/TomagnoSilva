@@ -21,7 +21,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px">
 </p>
---------
+
+----
 
 | Curso | Certificados |
 |------ |--------------|
