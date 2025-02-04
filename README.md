@@ -23,14 +23,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px">
 </p>
 
-----
 
 | Curso | Certificados |
 |------ |--------------|
 |POO Python | [Certificado](https://hermes.dio.me/certificates/UAZOXA3H.pdf) |
 |Python Fundamental | [Certificado](https://hermes.dio.me/certificates/I5YS1XG0.pdf) |
 
-----
+
 ![Tomagno Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=TomagnoSilva&show_icons=true&theme=dracula)
 
 ![Tomagno Silva GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomagnoSilva&layout=compact&langs_count=7&theme=dracula)
