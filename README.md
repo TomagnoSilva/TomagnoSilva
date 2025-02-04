@@ -22,7 +22,7 @@
 |Python Fundamental | [Certificado](https://hermes.dio.me/certificates/I5YS1XG0.pdf) |
 
 ----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Tomagno Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!--
