@@ -29,6 +29,24 @@ ___Negrito e Italico___
 ![Texto da imagem](https://lh3.googleusercontent.com/-c8uMZmwGGXU/YHnn_zC6W4I/AAAAAAAAAII/TZ6NPiU52kQIBAwBE9X9yqGmzTXktMVDQCLcBGAsYHQ/w945-h600-p-k-no-nu/image.png)
 
 
+`system.out.println();`
+
+```system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println();```
+
+> Texto da Citaçães
+-------------------------
+
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|------------ | ------------|
+| texto       | texto       |
+| texto 2     | texto 2     |
+
+[x] Tarefa 1
+
+[ ] Tarefa 2
+
+
 <!--
 **TomagnoSilva/TomagnoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
