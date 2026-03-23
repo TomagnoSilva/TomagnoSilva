@@ -5,9 +5,10 @@
 
 👽 Olá, me chamo Tomagno Silva!
 
-💬 Sou Estudante de Analise e Desenvolvimento de Sistemas.
+💬 Sou Estudante de Engenharia de Software.
+💬 Formado em Analise e Desenvolvimento de Sistemas - 2025.
 
-📫 [Acesse meu Linkedin](https://www.linkedin.com/in/tomagno-santos-813317229/)
+📫 [Acesse meu Linkedin](https://www.linkedin.com/in/tomagno-silva-813317229/)
 
 ------
 
